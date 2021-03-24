@@ -1,0 +1,59 @@
+h1{
+font-size: 100px;
+margin: auto;
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.container-1{ 
+    height: 300px;
+    width: 900px;
+    display: flex;
+    background-color: aqua;
+    margin-bottom: 50px;
+    margin:20px auto;
+justify-content: center;
+align-items: center;
+}
+.catsuit{
+    margin: 20px;
+}
+.jetpack{
+    margin: 20px;
+}
+.skate{
+    margin: 20px;
+
+}
+
+
+.container-2{ 
+    height: 300px;
+    width: 900px;
+    display: flex;
+    background-color: pink;
+    margin: 20px auto;
+    justify-content: center;
+   align-items: center;
+    
+}
+
+.princess{
+    margin: 50px;
+}
+
+.container-3{ 
+    height: 300px;
+    width: 900px;
+    display: flex;
+    background-color: powderblue;
+    margin: 50px;
+    margin: auto;
+justify-content: center;
+align-items: center;
+}
+
+.blue{
+    margin: 30px;
+}
+
